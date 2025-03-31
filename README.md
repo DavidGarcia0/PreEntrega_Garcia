@@ -16,3 +16,8 @@ Este proyecto es un e-commerce de venta de productos de tecnología. Se desarrol
 1. Clonar el repositorio
 2. Instalar las dependencias con `npm install`
 3. Iniciar el servidor con `npm run dev`
+
+# Acceso a la base de datos de mongo
+Agregar como variable de entorno:
+
+MONGO_URL='mongodb+srv://davidgarciaf0404:0T3WIaUO33fO0vHR@cluster0.kojjgtt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
